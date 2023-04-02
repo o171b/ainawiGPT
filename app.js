@@ -1,4 +1,4 @@
-const API_KEY = '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'
+const API_KEY = ${{ secrets.OPENAI_API_KEY }}
 
 const submitButton = document.querySelector('#send-btn')
 const outPutElement = document.querySelector('#chat-messages')
