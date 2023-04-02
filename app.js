@@ -1,4 +1,4 @@
-const API_KEY = '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'
+const API_KEY = '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'
 
 const submitButton = document.querySelector('#send-btn')
 const outPutElement = document.querySelector('#chat-messages')
